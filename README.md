@@ -13,4 +13,4 @@ This is a simple bookstore application built with PHP and MySQL. It allows users
 - Delete books
 - Search for books by title or author
 - Form validation
-
+- Integrated with API
